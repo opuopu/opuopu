@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md Nur Mohammod</h1>
 <h3 align="center">Talk With me</h3>
-<img align="right" alt="coading" width="400" src="https://www.programmingsimplified.com/images/c/bubble-sort.gif">
+<img align="right" alt="coading" width="400" src="https://media.licdn.com/dms/image/C4E16AQGGtqDt3YE2gg/profile-displaybackgroundimage-shrink_350_1400/0/1638082120435?e=1683763200&v=beta&t=URIYl5V51fnbxQ_m0jpm8UgXSVtWTkPLbtXZJ-tUmQc">
 
 - 📫 How to reach me **https://www.linkedin.com/in/md-nur-mohammod-2b8a55226/**
 
