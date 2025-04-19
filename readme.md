@@ -1,5 +1,11 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on: Exciting MERN stack projects that push the boundaries of web development.<br>🤝 I’m looking for help with: Advancing my skills in optimizing backend performance and exploring advanced React techniques.<br>🌱 I’m currently learning: Exploring relational databases with PostgreSQL and mastering Prisma for efficient data modeling..<br>💬 Ask me about: Anything related to MERN stack development and best practices.<br>⚡ Fun fact: I'm an avid hiker and have a knack for experimenting with international cuisines.
+👯 I spend most of my time building clean, scalable web apps, with a strong love for crafting smooth backend systems using Node.js and Express. Lately, I’ve been diving into PostgreSQL and Prisma — exploring how relational data can play nicely with modern stacks.
+
+I’m always looking for ways to make things faster, smarter, and easier to maintain — whether that’s optimizing backend performance or finding better patterns in React.
+
+Outside of code, you’ll probably find me on a hiking trail or experimenting in the kitchen with flavors from around the world.
+
+
 
 
 ## 🌐 Socials:
