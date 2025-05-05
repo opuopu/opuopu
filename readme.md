@@ -9,6 +9,7 @@ Outside of code, you’ll probably find me on a hiking trail or experimenting in
 
 
 ## 🌐 Socials:
+[![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/opu34)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurmdopu.opu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_opu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nur-mohammod-2b8a55226) 
 
 # 💻 Tech Stack:
