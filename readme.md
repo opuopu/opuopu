@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="animated banner" width="800" height="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif](https://cdn.dribbble.com/userupload/42123479/file/original-e71801a76a33768d4ed19f1f5a2df61d.gif" alt="animated banner" width="800" height="500"/>
 </p>
 
 # 💫 About Me:
