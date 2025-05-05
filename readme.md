@@ -6,10 +6,11 @@ I’m always looking for ways to make things faster, smarter, and easier to main
 Outside of code, you’ll probably find me on a hiking trail or experimenting in the kitchen with flavors from around the world.
 
 
-
+## 🧠 Competitive Profiles:
+[![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/opu34)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nurmdopu428)
 
 ## 🌐 Socials:
-[![Codeforces](https://img.shields.io/badge/Codeforces-%234566B5.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/opu34)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurmdopu.opu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_opu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nur-mohammod-2b8a55226) 
 
 # 💻 Tech Stack:
