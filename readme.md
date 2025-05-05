@@ -7,15 +7,9 @@ Outside of code, you’ll probably find me on a hiking trail or experimenting in
 
 
 ## ⚔️💻 Competitive Programming Warriors
-<p align="center">
-  <a href="https://codeforces.com/profile/opu34">
-    <img src="https://cp-logo.vercel.app/codeforces/opu34" alt="Codeforces profile" height="50"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/nurmdopu428">
-    <img src="https://img.shields.io/badge/HackerRank-nurmdopu428-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-</p>
+[![Codeforces User](https://img.shields.io/badge/Codeforces-Opu34-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/opu34)
+[![HackerRank User](https://img.shields.io/badge/HackerRank-nurmdopu428-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nurmdopu428)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurmdopu.opu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/your_opu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-nur-mohammod-2b8a55226) 
 
