@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="animated banner" width="800"/>
+</p>
+
 # 💫 About Me:
 👯 I spend most of my time building clean, scalable web apps, with a strong love for crafting smooth backend systems using Node.js and Express. Lately, I’ve been diving into PostgreSQL and Prisma — exploring how relational data can play nicely with modern stacks.
 
