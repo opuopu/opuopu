@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/42123479/file/original-e71801a76a33768d4ed19f1f5a2df61d.gif" alt="animated banner" width="800" height="500"/>
+  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" alt="animated banner" width="800" height="500"/>
 </p>
 
 # 💫 About Me:
