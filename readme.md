@@ -10,7 +10,6 @@ I’m always looking for ways to make things faster, smarter, and easier to main
 
 Outside of code, you’ll probably find me on a hiking trail or experimenting in the kitchen with flavors from around the world.
 
-
 ## ⚔️💻 Competitive Programming Warriors
 [![Codeforces User](https://img.shields.io/badge/Codeforces-Opu34-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/opu34)
 [![HackerRank User](https://img.shields.io/badge/HackerRank-nurmdopu428-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nurmdopu428)
